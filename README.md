@@ -70,4 +70,58 @@ The Java version provides a command-line interface where users can change speed,
 
 Both editions are separate, so you can use the version that suits your setup.
 
-**Important:** The current bookmarklet is a control-panel prototype. Its controls do not yet move the aircraft in GeoFS. Live aircraft integration and truck
+**Important:** The current bookmarklet is a control-panel prototype. Its controls do not yet move the aircraft in GeoFS. Live aircraft integration and truck positioning are planned improvements, not completed features.
+
+## 🛠️ Development Goals
+
+A few things this project aims to achieve:
+
+- Keep the code lightweight and organized.
+- Make controls simple and easy to understand.
+- Support both desktop and touchscreen devices.
+- Keep the Java and JavaScript editions independent.
+- Avoid unnecessary performance overhead.
+- Improve compatibility with GeoFS 4.0 Beta.
+- Add proper aircraft and pushback truck integration.
+
+## 🚧 Future Improvements
+
+- 🚛 Pushback truck model.
+- ✈️ Aircraft-specific truck positioning.
+- 🎮 Actual aircraft pushback movement.
+- 📱 Improved iPad and mobile controls.
+- 🖥️ Enhanced desktop interface.
+- ⚙️ GeoFS 4.0 Beta integration.
+- 🔧 Additional customization options.
+
+## 🔒 Privacy & Security
+
+- No unnecessary accounts.
+- No hidden tracking.
+- No unnecessary external services.
+- No personal information collection.
+- Source code available for inspection.
+
+## ⚠️ WARNING — USE AT YOUR OWN DISCRETION
+
+This is an unofficial community-made project.
+
+The bookmarklet currently provides a control-panel prototype and does not directly control or move the aircraft in GeoFS.
+
+The Java edition is a standalone simulator and does not connect to GeoFS.
+
+GeoFS 4.0 Beta is a changing development environment. Updates may affect compatibility, and some planned features may require further development.
+
+Review the source code before using it.
+
+## 📋 Compatibility Disclaimer
+
+This project is not an official GeoFS product and is not affiliated with the GeoFS development team.
+
+GeoFS 4.0 Beta compatibility has not been fully verified. Features relying on simulator internals may need updates as the simulator changes.
+
+---
+
+### ✈️ Made by CaptainCedricHockeyandMTB0291
+
+*Built for virtual aviation, experimentation and the GeoFS community.*
